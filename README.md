@@ -10,8 +10,8 @@ Main focus is **Windows 10–11**, but nearly every script will also have a **Mo
 
 | Platform | Available Scripts               |
 |----------|---------------------------------|
-| Windows  | Survival The Killer V1.4 and V2 |
-| Mobile   |  |
+| Windows  | STK V1.4 and V2, VHub, FNAF:EN |
+| Mobile   | VHub, FNAF:EN |
 
 > ▶ **Important:** Mobile versions are **not** updated regularly. Exceptions are made only for critical fixes or to keep compatibility with game updates
 
