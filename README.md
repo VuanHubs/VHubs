@@ -20,11 +20,12 @@ Main focus is **Windows 10–11**, but nearly every script will also have a **Mo
 ## ◆ Script Overview
 
 - **Survival The Killer** - dedicated script for the game *Survival The Killer* (coming soon on android)
+- **VHub** - universal script hub (versions 1.0 & 2.0 for Windows and Android)
+- **FNAF: ETERNAL NIGHT** - small script for FNAF:EN (Windows and Android)
 
 ### ◆ In development
 
-- **VHub** - universal script hub (versions 1.0 & 2.0 for Windows and Android)
-- **FNAF: EXTERNAL NIGHT** - small script for FNAF:EN (Windows and Android)
+- Universal AIM-Bot (Windows)
 
 ---
 
