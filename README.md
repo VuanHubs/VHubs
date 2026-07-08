@@ -8,11 +8,6 @@
 
 Main focus is **Windows 10–11**, but nearly every script will also have a **Mobile** version (Android & iOS)
 
-| Platform | Available Scripts               |
-|----------|---------------------------------|
-| Windows  | STK V1.4 and V2, VHub, FNAF:EN |
-| Mobile   | VHub, FNAF:EN |
-
 > ▶ **Important:** Mobile versions are **not** updated regularly. Exceptions are made only for critical fixes or to keep compatibility with game updates
 
 ---
@@ -20,12 +15,14 @@ Main focus is **Windows 10–11**, but nearly every script will also have a **Mo
 ## ◆ Script Overview
 
 - **Survival The Killer** - dedicated script for the game *Survival The Killer* (coming soon on android)
-- **VHub** - universal script hub (versions 1.0 & 2.0 for Windows and Android)
+- **VHub** - universal script hub (version 2.0 for Windows and Android)
 - **FNAF: ETERNAL NIGHT** - small script for FNAF:EN (Windows and Android)
-
+- **Word Helper Pro** - biggest db eng words for you
+ 
 ### ◆ In development
 
 - Universal AIM-Bot (Windows)
+- Speacter (Windows)
 
 ---
 
