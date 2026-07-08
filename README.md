@@ -17,7 +17,7 @@ Main focus is **Windows 10–11**, but nearly every script will also have a **Mo
 - **Survival The Killer** - dedicated script for the game *Survival The Killer* (coming soon on android)
 - **VHub** - universal script hub (version 2.0 for Windows and Android)
 - **FNAF: ETERNAL NIGHT** - small script for FNAF:EN (Windows and Android)
-- **Word Helper Pro** - biggest db eng words for you
+- **Word Helper Pro** - biggest db eng words for you (Windows)
  
 ### ◆ In development
 
