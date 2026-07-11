@@ -18,12 +18,12 @@ Main focus is **Windows 10–11**, but nearly every script will also have a **Mo
 - **VHub** - universal script hub (version 2.0 for Windows and Android)
 - **FNAF: ETERNAL NIGHT** - small script for FNAF:EN (Windows and Android)
 - **Word Helper Pro** - biggest db eng words for you (Windows)
-- Speacter (Windows) - BETA
+- Specter (Windows) - BETA
  
 ### ◆ In development
 
 - Universal AIM-Bot (Windows)
-- Speacter (Windows)
+- Specter (Windows)
 
 ---
 
